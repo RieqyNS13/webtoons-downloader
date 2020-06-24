@@ -1,0 +1,13 @@
+F:\gay\Backup\C#\webtoons_download\webtoons_download\obj\Debug\webtoons_download.csprojResolveAssemblyReference.cache
+F:\gay\Backup\C#\webtoons_download\webtoons_download\bin\Debug\Webtoons Downloader by RieqyNS13.exe.config
+F:\gay\Backup\C#\webtoons_download\webtoons_download\bin\Debug\Webtoons Downloader by RieqyNS13.exe
+F:\gay\Backup\C#\webtoons_download\webtoons_download\bin\Debug\Webtoons Downloader by RieqyNS13.pdb
+F:\gay\Backup\C#\webtoons_download\webtoons_download\obj\Debug\Webtoons Downloader by RieqyNS13.exe
+F:\gay\Backup\C#\webtoons_download\webtoons_download\obj\Debug\Webtoons Downloader by RieqyNS13.pdb
+F:\gay\Backup\C#\webtoons_download\webtoons_download\obj\Debug\webtoons_download.csproj.CoreCompileInputs.cache
+D:\gay\C#\webtoons_download\webtoons_download\bin\Debug\Webtoons Downloader by RieqyNS13.exe.config
+D:\gay\C#\webtoons_download\webtoons_download\bin\Debug\Webtoons Downloader by RieqyNS13.exe
+D:\gay\C#\webtoons_download\webtoons_download\bin\Debug\Webtoons Downloader by RieqyNS13.pdb
+D:\gay\C#\webtoons_download\webtoons_download\obj\Debug\Webtoons Downloader by RieqyNS13.exe
+D:\gay\C#\webtoons_download\webtoons_download\obj\Debug\Webtoons Downloader by RieqyNS13.pdb
+D:\gay\C#\webtoons_download\webtoons_download\obj\Debug\webtoons_download.csprojAssemblyReference.cache
