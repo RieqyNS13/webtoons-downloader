@@ -156,20 +156,20 @@ namespace webtoons_download
 			gay.listJudul = text.ToList();
 			return gay;
 		}
-		static bool cekBedaStr(string data,string data2)
-		{
-			try {
-				Regex r = new Regex("<title>(.*?)</title>", RegexOptions.IgnoreCase);
-				Match m = r.Match(data);
-				Match m2 = r.Match(data2);
-				if (string.Compare(m.Groups[1].Value, m2.Groups[1].Value) != 0) return true;
-				else return false;
-			}
-			catch
-			{
-				return false;
-			}
-		}
+		//static bool cekBedaStr(string data,string data2)
+		//{
+		//	try {
+		//		Regex r = new Regex("<title>(.*?)</title>", RegexOptions.IgnoreCase);
+		//		Match m = r.Match(data);
+		//		Match m2 = r.Match(data2);
+		//		if (string.Compare(m.Groups[1].Value, m2.Groups[1].Value) != 0) return true;
+		//		else return false;
+		//	}
+		//	catch
+		//	{
+		//		return false;
+		//	}
+		//}
 		static void Main(string[] args)
 		{
 			ServicePointManager.Expect100Continue = true;
